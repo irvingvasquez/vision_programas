@@ -6,11 +6,13 @@ En este repositorio encontrarás la primera parte de ejercicios de la materia de
 
 ## Instrucciones (2025)
 
-### Ambiente Anaconda: Python 3 + OpenCV + NumPy + Matplotlib + Jupyter
+### Opción 1: Ejecutar en COLAB
+
+Actualmente cada notebook tiene la opción de ejecutarse en colab. Simplemente tienes que oprimir el boton COLAB en cada lección.
+
+### Opción 2 (Local): Ambiente Anaconda
 
 Funciona en **Windows, macOS y Linux** (usa *Anaconda Prompt* o tu terminal).
-
----
 
 #### Paso 1 — Crear y activar el ambiente
 ```bash
@@ -58,9 +60,11 @@ $ jupyter notebook [archivo].ipynb
 
 Si todo esta bien debes de ver el script en tu explorador.
 
+---
+
 Derechos reservados.
 
-Irving Vasquez, 2019
+Irving Vasquez, 2019-2025
 [jivg.org][jivg]
 
 
